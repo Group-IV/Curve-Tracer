@@ -23,6 +23,7 @@ namespace IVCurveTracer
         public MainWindow()
         {
             InitializeComponent();
+            //Test!
         }
     }
 }
